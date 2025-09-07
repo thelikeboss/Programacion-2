@@ -1,0 +1,9 @@
+
+Gestión Simple de Producto Cree una clase llamada Producto que modele un producto con los siguientes atributos: codigo (cadena de caracteres), descripcion (cadena de caracteres) y precioUnitario (número decimal).
+La clase Producto debe cumplir con lo siguiente:
+
+Todos los atributos deben ser privados.
+Debe tener un constructor que inicialice todos los atributos.
+Debe implementar métodos públicos Get y Set para cada atributo.
+Debe tener un método público llamado mostrarInfo() que imprima en consola todos los detalles del producto.
+En la función main(), cree al menos dos objetos de la clase Producto, asigne valores utilizando los métodos Set o el constructor, y luego muestre la información de cada producto utilizando el método mostrarInfo().
