@@ -7,8 +7,6 @@ import java.sql.SQLException;
 import java.sql.ResultSet;
 import java.util.Scanner;
 
-
-
 public class Datos {
 
     private static final String URL = "jdbc:mysql://localhost:3306/";

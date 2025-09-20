@@ -39,7 +39,8 @@ public class Triangulo extends FiguraGeometrica {
 
     private void calcularPerimetro() {
         // Suponiendo triángulo equilátero
-        double perimetro = 3 * base;
+        double perimetro = 
+        3 * base;
         setPerimetro(perimetro);
     }
 

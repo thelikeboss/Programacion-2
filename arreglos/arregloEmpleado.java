@@ -1,4 +1,4 @@
-package arreglos;
+package Arreglos;
 import java.util.ArrayList;
 public class arregloEmpleado {
  public static void main(String []args){

@@ -1,4 +1,4 @@
-package arreglos;
+package Arreglos;
 
 public class listaEmpleado {
     public static void main(String[] args) {

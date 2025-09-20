@@ -1,4 +1,4 @@
-package arreglos;
+package Arreglos;
 
 import javax.swing.*;
 import java.awt.*;

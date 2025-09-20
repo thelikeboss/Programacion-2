@@ -1,4 +1,4 @@
-package arreglos;
+package Arreglos;
 
 public class Empleado {
     String nombre;
