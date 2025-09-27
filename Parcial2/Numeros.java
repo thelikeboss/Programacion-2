@@ -41,6 +41,7 @@ public class Numeros {
                     "Ver suma",
                     "Ver promedio",
                     "Ver todos los números",
+                    "Ver cantidad de números que superan el promedio",
                     "Salir"
             };
             int eleccion = JOptionPane.showOptionDialog(
@@ -66,6 +67,15 @@ public class Numeros {
                         sb.append(num).append(", ");
                     }
                     JOptionPane.showMessageDialog(null, sb.toString());
+                    break;
+                case 3: // Ver cantidad de números que superan el promedio
+                    int contador = 0;
+                    for (int num : numeros) {
+                        if (num > promedio) {
+                            contador++;
+                        }
+                    }
+                    JOptionPane.showMessageDialog(null, "Cantidad de números que superan el promedio: " + contador);
                     break;
 
                 default: // Salir o cerrar ventana

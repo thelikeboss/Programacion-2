@@ -1,4 +1,4 @@
-package Calculo__del_precio_de_un_producto;
+package Calculo_del_precio_de_un_producto;
 /*
 Objetivo: Desarrollar un programa en Java que permita calcular el precio total de venta de un producto aplicando el IVA, a partir de ingresar el precio unitario y cantidad de unidades.
 Contenidos: Variables, entrada/salida de datos, operaciones matemáticas, impresión por pantalla. 

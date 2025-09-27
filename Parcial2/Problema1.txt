@@ -1,0 +1,8 @@
+Desarrolle un programa en Java que permita gestionar la captura y procesamiento de valores numéricos enteros de la siguiente manera:
+
+1.Solicite por interfaz gráfica la cantidad de números a ingresar.
+2.Incorpore un ArrayList para el almacenamiento de los valores leídos.
+3.Implemente mecanismos para la captura de los datos numéricos ingresados por el usuario.
+4.Incluya funcionalidad para el cálculo de la suma y promedio de los valores capturados.
+5.Muestre por pantalla los resultados de la suma y promedio obtenidos.
+6.Recorra e imprima en pantalla todos los valores almacenados indicando cuántos de ellos superan el promedio calculado.
