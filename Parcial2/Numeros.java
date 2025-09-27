@@ -1,3 +1,4 @@
+
 package Parcial2;
 
 import java.util.ArrayList;
@@ -47,7 +48,7 @@ public class Numeros {
             int eleccion = JOptionPane.showOptionDialog(
                     null,
                     "¿Qué desea hacer?",
-                    "Opciones",
+                    "Opciones                                Christopher Aaron Landaverry Argueta 9960-23-1691",
                     JOptionPane.DEFAULT_OPTION,
                     JOptionPane.QUESTION_MESSAGE,
                     null,
